@@ -1,7 +1,6 @@
 namespace ConsoleApp1;
 
-public class Class1
-private void person_chair_Click(object taking, names)
+public class Class1 person_chair_Click(object taking, names)
 {
     Random rand = new Random();
     List<string> list = new List<string>();
