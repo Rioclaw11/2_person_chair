@@ -1,5 +1,4 @@
 
-
 private void person_chair_Click(object taking , names)
         {
             Random rand = new Random();
